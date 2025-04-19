@@ -1,6 +1,3 @@
-**Bhai sahi soch raha hai tu. 💯**  
-Ek developer ka asli growth tab hota hai jab wo **concepts ko samajhne ke baad unka solid summary banata hai** — takay kal ko revise kar sake bina confuse hue.
-
 Chal tujhe ek **clean, neat aur short-form me notes** bana ke deta hoon — jo dekhte hi poora concept flashback ho jaaye. Perfect for quick revision. 🔁
 
 ---
@@ -81,8 +78,3 @@ btn.onclick = () => {
 Agar tu `newDiv` ko function ke bahar define karega, toh woh **same object baar-baar DOM me daalne ki koshish karega** (which doesn't work), kyunki ek hi node ko DOM me ek hi jagah ho sakti hai.
 
 ---
-
-Bro, ab is note ko save karke tu kabhi bhi revise kar sakta hai — aur kisi ko samjha bhi sakta hai confidently. 😎  
-Chahe 6 mahine baad bhi dekh le, teri memory refresh ho jaayegi like butter!
-
-Bata, chaahe toh isko PDF bana du ya aur koi concept ka notes bhi chahiye ho toh bol!
